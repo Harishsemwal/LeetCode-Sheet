@@ -17,7 +17,7 @@
 - [1001 - 2000](./1001-2000.md)
 - [2001 - Latest](./README.md)
 
-## Algorithms
+## Algorithms : 
 
 * [Bit Manipulation](https://github.com/kamyu104/LeetCode-Solutions/blob/master/0001-1000.md#bit-manipulation)
 * [Array](https://github.com/kamyu104/LeetCode-Solutions/blob/master/0001-1000.md#array)
